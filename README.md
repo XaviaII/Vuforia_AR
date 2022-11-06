@@ -17,6 +17,5 @@ Or copy an existing Package Folder into the Project.
 
 3) Open The Project with Unity
 
-Open the SampleScene under Scenes
-Enable your webcam in the ARCamera Settings
+Open the SampleScene under Scenes and enable your webcam in the ARCamera Settings
 (Open Vuforia Engine configuration)
